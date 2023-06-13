@@ -11,7 +11,5 @@ This paper studies a relatively new deraining task termed stereo image deraining
 - torchvision 0.11.1+cu113
 
 ### Datasets
-You can download **StereoCityscapes** datasets from [Baidu Drive](https://pan.baidu.com/s/13RTsCkseiXv5SuhpjZ_N7w) (Key: msy5).
 
 ### Results
-You can download the results of StereoIRR from [Baidu Drive](https://pan.baidu.com/s/15IP6AOSKOIxsoQxOBoyImQ) (Key: pypx).
